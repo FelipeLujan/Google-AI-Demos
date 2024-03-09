@@ -28,4 +28,8 @@ Collection of demos using various Google AI products - Gemini, AIStudio, VertexA
 | [Gemini 1.5 Pro for Video Analysis](https://www.youtube.com/watch?v=pt78XWrOEVk)| Uploads a 50 min conference video to gemini and asks questions about it while using ~850k tokens context window | aistudio multimodal intermediate |
 
 
+## Colabs 
+| Title      | Description | tags |
+| ------------------------------- | ----------- | ---- |
+| [Run Google Gemma + llama.cpp GGUF Inference in Google Colab](https://medium.com/@AleNunezArroyo/run-google-gemma-llama-cpp-gguf-inference-in-google-colab-ecb1c03bc440)| Running Gemma 7b on google colab | gemma open source t4 colab |
 
