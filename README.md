@@ -1,6 +1,31 @@
 # Google-AI-Demos
 Collection of demos using various Google AI products - Gemini, AIStudio, VertexAI.
 
+## Google ADK demos 
+| Title      | Description | GitHub Repo | tags |
+| ------------------------------- | ----------- | ----------- | ---- |
+| [Gemini Marketing Taskforce](https://devpost.com/software/gemini-marketing-taskforce)| An autonomous trio of AI agents that collaboratively generate polished marketing content for products using Google ADK | [GitHub](https://github.com/zainkhan1994) | gemini adk marketing multi-agent intermediate |
+| [Oprina: Conversational AI Avatar Assistant](https://devpost.com/software/oprina-conversational-ai-avatar-assistant)| Voice-powered AI assistant that combines conversational intelligence with interactive avatar technology for productivity | *GitHub not found* | gemini adk voice avatar productivity intermediate |
+| [AgentFlux](https://devpost.com/software/agentflux)| Application for agent re-engineering for better and reliable Gen AI workflows with visual management | [GitHub](https://github.com/VidyutChakrabarti/AgentFlux) | gemini adk agent-engineering multi-agent advanced |
+| [The Cloud Orchestrator](https://devpost.com/software/cloud-orchestrator)| Multi-agent system that understands your intent and orchestrates 20+ Google Cloud services through natural language | [GitHub](https://github.com/MNS1007/cloud-orchestrator) | gemini adk cloud-automation devops advanced |
+| [Content_Studio.ai](https://devpost.com/software/content_studio-ai)| Multi-platform content creation and management system for LinkedIn, Twitter/X, and Instagram | [GitHub](https://github.com/vihangpagare/Content_Studio-adk/tree/main) | gemini adk social-media content-creation intermediate |
+| [Vibe](https://devpost.com/software/placeholder-qib8yk)| End-to-end, multi-agent video generation platform that transforms product URLs into professional video advertisements | [GitHub](https://github.com/ericjkge/adk-adgen) | gemini adk video-generation marketing advanced |
+| [AI Personal Planner](https://devpost.com/software/ai-personal-planner)| Multi-agent system that helps users set clear goals and creates actionable roadmaps with automated scheduling | [GitHub](https://github.com/Pei-Cheng-Yu/Google_ADK_Hackathon) | gemini adk planning productivity intermediate |
+| [Android-Use](https://devpost.com/software/android-use)| Fully autonomous AI agent that operates smartphones like a human to accomplish complex user-defined goals | [GitHub](https://github.com/yogen-ghodke-113/Android-Use) | gemini adk android automation accessibility intermediate |
+| [Aura AI](https://devpost.com/software/aura-ai-3oitsg)| Enterprise-grade conversational system tailored for luxury hospitality that unifies hotel data and automates operations | *GitHub not found* | gemini adk hospitality enterprise intermediate |
+| [Vendo AI](https://devpost.com/software/vendo-ai)| Analytics co-pilot for growth teams that connects to data, answers complex questions without waiting on analysts | [GitHub](https://github.com/vendo-analytics/vendo-ai) | gemini adk analytics data-science intermediate |
+| [AI Research & Content Generator](https://devpost.com/software/ai-research-content-generator)| Ensemble of agents that researches topics extensively and automatically creates marketing content and visuals | [GitHub](https://github.com/eeshsingh123/content-generator-agents-using-google-adk) | gemini adk research content-creation intermediate |
+| [GEN UI - ADK](https://devpost.com/software/gen-ui-adk)| Dynamically generates personalized UI for any website at runtime using generative models | [GitHub](https://github.com/praneash2/gen-ui) | gemini adk ui-generation personalization advanced |
+| [VyralFlow AI](https://devpost.com/software/vyralflow-ai)| Creates viral social campaigns automatically using AI agents for trend analysis, content generation, and visual design | [GitHub](https://github.com/SCGamer30/vyralflow-ai-campaigns) | gemini adk social-media viral-content intermediate |
+| [FilterFlow-AI](https://devpost.com/software/cus-cuss-ai)| Multi-agent AI system that detects difficult & abusive conversations and turns them into positive interactions | [GitHub](https://github.com/VikramAdityaTheKing/FilterFlowAI) | gemini adk customer-service moderation intermediate |
+| [Bleach](https://devpost.com/software/bleach-7tqdmo)| Visual AI agent builder for Google ADK - describe agents in plain English, design visually, test instantly | [GitHub](https://github.com/vivek100/bleachAgentBuilder.git) | gemini adk visual-builder development-tools intermediate |
+| [Marketing Genius](https://devpost.com/software/marketing-genius-hrpd86)| Multi-agent AI application that creates full marketing campaigns with social media copy, hashtags, and scheduling | [GitHub](https://github.com/AbhinavPudasaini/Marketing-genius) | gemini adk marketing automation beginner |
+| [Procurement Negotiator](https://devpost.com/software/procurement-negotiator)| AI-driven system that automates procurement negotiation flow including quote analysis and supplier communication | *GitHub not found* | gemini adk procurement automation enterprise intermediate |
+
+
+
+
+
 ## Javascript Demos 
 | Title      | Description | tags |
 | ------------------------------- | ----------- | ---- |
